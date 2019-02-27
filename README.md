@@ -1,6 +1,6 @@
 # USB MIDI interface
 
-<img align="right" src="../_common/PlaceholderImage.png">
+<img align="right" src="./PlaceholderImage.png">
 
 .....
 
@@ -11,6 +11,10 @@
 This board was designed using the [Upverter](https://upverter.com) web service.
 
 The schematic, board layout and bill of materials can be viewed [here](https://upverter.com/Trebuchetindustries/b5154a203073db67/USB-MIDI-interface/). Exports from Upverter are [available in a subdirectory](./Upverter%20exports).
+
+## TODO
+
+* [ ] Think of a better name for this project
 
 ## Licence
 
